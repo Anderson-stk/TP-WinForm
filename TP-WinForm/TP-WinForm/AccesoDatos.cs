@@ -20,7 +20,7 @@ namespace TP_WinForm {
         public AccesoDatos()
         {
 
-            conexion = new SqlConnection("server=(localdb)\\MSSQLLocalDB; database=CATALOGO_P3_DB; integrad= security=true ");
+            conexion = new SqlConnection("server=(localdb)\\MSSQLLocalDB; database=CATALOGO_P3_DB; integrated security=true;");
             comando = new SqlCommand();
 
         }
