@@ -9,3 +9,4 @@ C:\Users\pc\Desktop\Proyectos C#\Consigna TPWinForn\TP-WinForm\TP-WinForm\obj\De
 C:\Users\pc\Desktop\Proyectos C#\Consigna TPWinForn\TP-WinForm\TP-WinForm\obj\Debug\TP-WinForm.exe
 C:\Users\pc\Desktop\Proyectos C#\Consigna TPWinForn\TP-WinForm\TP-WinForm\obj\Debug\TP-WinForm.pdb
 C:\Users\pc\Desktop\Proyectos C#\Consigna TPWinForn\TP-WinForm\TP-WinForm\obj\Debug\TP-WinForm.exe.config
+C:\Users\pc\Desktop\Proyectos C#\Consigna TPWinForn\TP-WinForm\TP-WinForm\obj\Debug\TP_WinForm.frmAgregarArticulo.resources
