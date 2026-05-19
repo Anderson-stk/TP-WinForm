@@ -58,11 +58,41 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmAltaArticulo.cs">
+    <Compile Include="frmAgregarArticulo.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmAltaArticulo.Designer.cs">
-      <DependentUpon>frmAltaArticulo.cs</DependentUpon>
+    <Compile Include="frmAgregarArticulo.Designer.cs">
+      <DependentUpon>frmAgregarArticulo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAgregarCategoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAgregarCategoria.Designer.cs">
+      <DependentUpon>frmAgregarCategoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAgregarMarca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAgregarMarca.Designer.cs">
+      <DependentUpon>frmAgregarMarca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCategorias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCategorias.Designer.cs">
+      <DependentUpon>frmCategorias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDetallesArticulos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDetallesArticulos.Designer.cs">
+      <DependentUpon>frmDetallesArticulos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMarcas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMarcas.Designer.cs">
+      <DependentUpon>frmMarcas.cs</DependentUpon>
     </Compile>
     <Compile Include="Imagen.cs" />
     <Compile Include="Marca.cs" />
@@ -72,8 +102,23 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmAltaArticulo.resx">
-      <DependentUpon>frmAltaArticulo.cs</DependentUpon>
+    <EmbeddedResource Include="frmAgregarArticulo.resx">
+      <DependentUpon>frmAgregarArticulo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAgregarCategoria.resx">
+      <DependentUpon>frmAgregarCategoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAgregarMarca.resx">
+      <DependentUpon>frmAgregarMarca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCategorias.resx">
+      <DependentUpon>frmCategorias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDetallesArticulos.resx">
+      <DependentUpon>frmDetallesArticulos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMarcas.resx">
+      <DependentUpon>frmMarcas.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

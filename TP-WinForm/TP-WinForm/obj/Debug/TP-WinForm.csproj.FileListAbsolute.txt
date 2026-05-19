@@ -10,3 +10,8 @@ C:\Users\pc\Desktop\Proyectos C#\Consigna TPWinForn\TP-WinForm\TP-WinForm\obj\De
 C:\Users\pc\Desktop\Proyectos C#\Consigna TPWinForn\TP-WinForm\TP-WinForm\obj\Debug\TP-WinForm.pdb
 C:\Users\pc\Desktop\Proyectos C#\Consigna TPWinForn\TP-WinForm\TP-WinForm\obj\Debug\TP-WinForm.exe.config
 C:\Users\pc\Desktop\Proyectos C#\Consigna TPWinForn\TP-WinForm\TP-WinForm\obj\Debug\TP_WinForm.frmAgregarArticulo.resources
+C:\Users\pc\Desktop\Proyectos C#\Consigna TPWinForn\TP-WinForm\TP-WinForm\obj\Debug\TP_WinForm.frmAgregarCategoria.resources
+C:\Users\pc\Desktop\Proyectos C#\Consigna TPWinForn\TP-WinForm\TP-WinForm\obj\Debug\TP_WinForm.frmAgregarMarca.resources
+C:\Users\pc\Desktop\Proyectos C#\Consigna TPWinForn\TP-WinForm\TP-WinForm\obj\Debug\TP_WinForm.frmCategorias.resources
+C:\Users\pc\Desktop\Proyectos C#\Consigna TPWinForn\TP-WinForm\TP-WinForm\obj\Debug\TP_WinForm.frmDetallesArticulos.resources
+C:\Users\pc\Desktop\Proyectos C#\Consigna TPWinForn\TP-WinForm\TP-WinForm\obj\Debug\TP_WinForm.frmMarcas.resources
