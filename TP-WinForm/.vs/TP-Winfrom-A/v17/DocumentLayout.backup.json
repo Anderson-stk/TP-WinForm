@@ -1,0 +1,304 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\Proyectos C#\\Consigna TPWinForn\\TP-WinForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{770C8B80-A653-42DD-A03F-1E8E89580E6F}|TP-Winfrom-A\\TP-Winfrom-A.csproj|c:\\users\\pc\\desktop\\proyectos c#\\consigna tpwinforn\\tp-winform\\tp-winfrom-a\\frmdetallearticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{770C8B80-A653-42DD-A03F-1E8E89580E6F}|TP-Winfrom-A\\TP-Winfrom-A.csproj|solutionrelative:tp-winfrom-a\\frmdetallearticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770C8B80-A653-42DD-A03F-1E8E89580E6F}|TP-Winfrom-A\\TP-Winfrom-A.csproj|C:\\Users\\pc\\Desktop\\Proyectos C#\\Consigna TPWinForn\\TP-WinForm\\tp-winfrom-a\\frmdetallearticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{770C8B80-A653-42DD-A03F-1E8E89580E6F}|TP-Winfrom-A\\TP-Winfrom-A.csproj|solutionrelative:tp-winfrom-a\\frmdetallearticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770C8B80-A653-42DD-A03F-1E8E89580E6F}|TP-Winfrom-A\\TP-Winfrom-A.csproj|C:\\Users\\pc\\Desktop\\Proyectos C#\\Consigna TPWinForn\\TP-WinForm\\tp-winfrom-a\\altaarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{770C8B80-A653-42DD-A03F-1E8E89580E6F}|TP-Winfrom-A\\TP-Winfrom-A.csproj|solutionrelative:tp-winfrom-a\\altaarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770C8B80-A653-42DD-A03F-1E8E89580E6F}|TP-Winfrom-A\\TP-Winfrom-A.csproj|C:\\Users\\pc\\Desktop\\Proyectos C#\\Consigna TPWinForn\\TP-WinForm\\tp-winfrom-a\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{770C8B80-A653-42DD-A03F-1E8E89580E6F}|TP-Winfrom-A\\TP-Winfrom-A.csproj|solutionrelative:tp-winfrom-a\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770C8B80-A653-42DD-A03F-1E8E89580E6F}|TP-Winfrom-A\\TP-Winfrom-A.csproj|C:\\Users\\pc\\Desktop\\Proyectos C#\\Consigna TPWinForn\\TP-WinForm\\tp-winfrom-a\\frmcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{770C8B80-A653-42DD-A03F-1E8E89580E6F}|TP-Winfrom-A\\TP-Winfrom-A.csproj|solutionrelative:tp-winfrom-a\\frmcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770C8B80-A653-42DD-A03F-1E8E89580E6F}|TP-Winfrom-A\\TP-Winfrom-A.csproj|C:\\Users\\pc\\Desktop\\Proyectos C#\\Consigna TPWinForn\\TP-WinForm\\tp-winfrom-a\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{770C8B80-A653-42DD-A03F-1E8E89580E6F}|TP-Winfrom-A\\TP-Winfrom-A.csproj|solutionrelative:tp-winfrom-a\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB64929-4E48-476A-91CE-265F3603A4D2}|negocio\\negocio.csproj|C:\\Users\\pc\\Desktop\\Proyectos C#\\Consigna TPWinForn\\TP-WinForm\\negocio\\articulonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB64929-4E48-476A-91CE-265F3603A4D2}|negocio\\negocio.csproj|solutionrelative:negocio\\articulonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770C8B80-A653-42DD-A03F-1E8E89580E6F}|TP-Winfrom-A\\TP-Winfrom-A.csproj|C:\\Users\\pc\\Desktop\\Proyectos C#\\Consigna TPWinForn\\TP-WinForm\\tp-winfrom-a\\frmmarca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{770C8B80-A653-42DD-A03F-1E8E89580E6F}|TP-Winfrom-A\\TP-Winfrom-A.csproj|solutionrelative:tp-winfrom-a\\frmmarca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770C8B80-A653-42DD-A03F-1E8E89580E6F}|TP-Winfrom-A\\TP-Winfrom-A.csproj|C:\\Users\\pc\\Desktop\\Proyectos C#\\Consigna TPWinForn\\TP-WinForm\\tp-winfrom-a\\frmmarca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{770C8B80-A653-42DD-A03F-1E8E89580E6F}|TP-Winfrom-A\\TP-Winfrom-A.csproj|solutionrelative:tp-winfrom-a\\frmmarca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770C8B80-A653-42DD-A03F-1E8E89580E6F}|TP-Winfrom-A\\TP-Winfrom-A.csproj|C:\\Users\\pc\\Desktop\\Proyectos C#\\Consigna TPWinForn\\TP-WinForm\\tp-winfrom-a\\frmcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{770C8B80-A653-42DD-A03F-1E8E89580E6F}|TP-Winfrom-A\\TP-Winfrom-A.csproj|solutionrelative:tp-winfrom-a\\frmcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB64929-4E48-476A-91CE-265F3603A4D2}|negocio\\negocio.csproj|C:\\Users\\pc\\Desktop\\Proyectos C#\\Consigna TPWinForn\\TP-WinForm\\negocio\\categorianegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB64929-4E48-476A-91CE-265F3603A4D2}|negocio\\negocio.csproj|solutionrelative:negocio\\categorianegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB64929-4E48-476A-91CE-265F3603A4D2}|negocio\\negocio.csproj|C:\\Users\\pc\\Desktop\\Proyectos C#\\Consigna TPWinForn\\TP-WinForm\\negocio\\marcanegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB64929-4E48-476A-91CE-265F3603A4D2}|negocio\\negocio.csproj|solutionrelative:negocio\\marcanegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770C8B80-A653-42DD-A03F-1E8E89580E6F}|TP-Winfrom-A\\TP-Winfrom-A.csproj|C:\\Users\\pc\\Desktop\\Proyectos C#\\Consigna TPWinForn\\TP-WinForm\\tp-winfrom-a\\altaarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{770C8B80-A653-42DD-A03F-1E8E89580E6F}|TP-Winfrom-A\\TP-Winfrom-A.csproj|solutionrelative:tp-winfrom-a\\altaarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D357D5E5-D07B-4530-BCEF-6D4B23D199BC}|dominio\\dominio.csproj|C:\\Users\\pc\\Desktop\\Proyectos C#\\Consigna TPWinForn\\TP-WinForm\\dominio\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D357D5E5-D07B-4530-BCEF-6D4B23D199BC}|dominio\\dominio.csproj|solutionrelative:dominio\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB64929-4E48-476A-91CE-265F3603A4D2}|negocio\\negocio.csproj|C:\\Users\\pc\\Desktop\\Proyectos C#\\Consigna TPWinForn\\TP-WinForm\\negocio\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB64929-4E48-476A-91CE-265F3603A4D2}|negocio\\negocio.csproj|solutionrelative:negocio\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D357D5E5-D07B-4530-BCEF-6D4B23D199BC}|dominio\\dominio.csproj|C:\\Users\\pc\\Desktop\\Proyectos C#\\Consigna TPWinForn\\TP-WinForm\\dominio\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D357D5E5-D07B-4530-BCEF-6D4B23D199BC}|dominio\\dominio.csproj|solutionrelative:dominio\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D357D5E5-D07B-4530-BCEF-6D4B23D199BC}|dominio\\dominio.csproj|C:\\Users\\pc\\Desktop\\Proyectos C#\\Consigna TPWinForn\\TP-WinForm\\dominio\\imagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D357D5E5-D07B-4530-BCEF-6D4B23D199BC}|dominio\\dominio.csproj|solutionrelative:dominio\\imagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D357D5E5-D07B-4530-BCEF-6D4B23D199BC}|dominio\\dominio.csproj|C:\\Users\\pc\\Desktop\\Proyectos C#\\Consigna TPWinForn\\TP-WinForm\\dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D357D5E5-D07B-4530-BCEF-6D4B23D199BC}|dominio\\dominio.csproj|solutionrelative:dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmDetalleArticulo.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Proyectos C#\\Consigna TPWinForn\\TP-WinForm\\TP-Winfrom-A\\frmDetalleArticulo.cs",
+              "RelativeDocumentMoniker": "TP-Winfrom-A\\frmDetalleArticulo.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Proyectos C#\\Consigna TPWinForn\\TP-WinForm\\TP-Winfrom-A\\frmDetalleArticulo.cs",
+              "RelativeToolTip": "TP-Winfrom-A\\frmDetalleArticulo.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAAF0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T03:33:25.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmDetalleArticulo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Proyectos C#\\Consigna TPWinForn\\TP-WinForm\\TP-Winfrom-A\\frmDetalleArticulo.cs",
+              "RelativeDocumentMoniker": "TP-Winfrom-A\\frmDetalleArticulo.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\TP Winform Individual\\TP-Winfrom-A\\TP-Winfrom-A\\frmDetalleArticulo.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\TP Winform Individual\\TP-Winfrom-A\\TP-Winfrom-A\\frmDetalleArticulo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T03:26:37.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmMarca.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Proyectos C#\\Consigna TPWinForn\\TP-WinForm\\TP-Winfrom-A\\frmMarca.cs",
+              "RelativeDocumentMoniker": "TP-Winfrom-A\\frmMarca.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Proyectos C#\\Consigna TPWinForn\\TP-WinForm\\TP-Winfrom-A\\frmMarca.cs",
+              "RelativeToolTip": "TP-Winfrom-A\\frmMarca.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAuwH8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T02:48:36.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmCategoria.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Proyectos C#\\Consigna TPWinForn\\TP-WinForm\\TP-Winfrom-A\\frmCategoria.cs",
+              "RelativeDocumentMoniker": "TP-Winfrom-A\\frmCategoria.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\TP Winform Individual\\TP-Winfrom-A\\TP-Winfrom-A\\frmCategoria.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\TP Winform Individual\\TP-Winfrom-A\\TP-Winfrom-A\\frmCategoria.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T02:27:59.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmMarca.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Proyectos C#\\Consigna TPWinForn\\TP-WinForm\\TP-Winfrom-A\\frmMarca.cs",
+              "RelativeDocumentMoniker": "TP-Winfrom-A\\frmMarca.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\TP Winform Individual\\TP-Winfrom-A\\TP-Winfrom-A\\frmMarca.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\TP Winform Individual\\TP-Winfrom-A\\TP-Winfrom-A\\frmMarca.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T02:27:48.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AltaArticulo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Proyectos C#\\Consigna TPWinForn\\TP-WinForm\\TP-Winfrom-A\\AltaArticulo.cs",
+              "RelativeDocumentMoniker": "TP-Winfrom-A\\AltaArticulo.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\TP Winform Individual\\TP-Winfrom-A\\TP-Winfrom-A\\AltaArticulo.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\TP Winform Individual\\TP-Winfrom-A\\TP-Winfrom-A\\AltaArticulo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T00:08:27.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MarcaNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Proyectos C#\\Consigna TPWinForn\\TP-WinForm\\negocio\\MarcaNegocio.cs",
+              "RelativeDocumentMoniker": "negocio\\MarcaNegocio.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Proyectos C#\\Consigna TPWinForn\\TP-WinForm\\negocio\\MarcaNegocio.cs",
+              "RelativeToolTip": "negocio\\MarcaNegocio.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAIwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T23:27:41.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoriaNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Proyectos C#\\Consigna TPWinForn\\TP-WinForm\\negocio\\CategoriaNegocio.cs",
+              "RelativeDocumentMoniker": "negocio\\CategoriaNegocio.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Proyectos C#\\Consigna TPWinForn\\TP-WinForm\\negocio\\CategoriaNegocio.cs",
+              "RelativeToolTip": "negocio\\CategoriaNegocio.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAIwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T23:08:20.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Proyectos C#\\Consigna TPWinForn\\TP-WinForm\\TP-Winfrom-A\\Form1.cs",
+              "RelativeDocumentMoniker": "TP-Winfrom-A\\Form1.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Proyectos C#\\Consigna TPWinForn\\TP-WinForm\\TP-Winfrom-A\\Form1.cs",
+              "RelativeToolTip": "TP-Winfrom-A\\Form1.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAUwMYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T21:54:35.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ArticuloNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Proyectos C#\\Consigna TPWinForn\\TP-WinForm\\negocio\\ArticuloNegocio.cs",
+              "RelativeDocumentMoniker": "negocio\\ArticuloNegocio.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Proyectos C#\\Consigna TPWinForn\\TP-WinForm\\negocio\\ArticuloNegocio.cs",
+              "RelativeToolTip": "negocio\\ArticuloNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T20:21:54.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Proyectos C#\\Consigna TPWinForn\\TP-WinForm\\TP-Winfrom-A\\Form1.cs",
+              "RelativeDocumentMoniker": "TP-Winfrom-A\\Form1.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\TP Winform Individual\\TP-Winfrom-A\\TP-Winfrom-A\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\TP Winform Individual\\TP-Winfrom-A\\TP-Winfrom-A\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T20:11:42.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Proyectos C#\\Consigna TPWinForn\\TP-WinForm\\TP-Winfrom-A\\frmCategoria.cs",
+              "RelativeDocumentMoniker": "TP-Winfrom-A\\frmCategoria.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Proyectos C#\\Consigna TPWinForn\\TP-WinForm\\TP-Winfrom-A\\frmCategoria.cs",
+              "RelativeToolTip": "TP-Winfrom-A\\frmCategoria.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAhwH8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T03:05:30.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AccesoDatos.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Proyectos C#\\Consigna TPWinForn\\TP-WinForm\\negocio\\AccesoDatos.cs",
+              "RelativeDocumentMoniker": "negocio\\AccesoDatos.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Proyectos C#\\Consigna TPWinForn\\TP-WinForm\\negocio\\AccesoDatos.cs",
+              "RelativeToolTip": "negocio\\AccesoDatos.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAC8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T20:15:28.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Marca.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Proyectos C#\\Consigna TPWinForn\\TP-WinForm\\dominio\\Marca.cs",
+              "RelativeDocumentMoniker": "dominio\\Marca.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Proyectos C#\\Consigna TPWinForn\\TP-WinForm\\dominio\\Marca.cs",
+              "RelativeToolTip": "dominio\\Marca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T20:14:57.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AltaArticulo.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Proyectos C#\\Consigna TPWinForn\\TP-WinForm\\TP-Winfrom-A\\AltaArticulo.cs",
+              "RelativeDocumentMoniker": "TP-Winfrom-A\\AltaArticulo.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Proyectos C#\\Consigna TPWinForn\\TP-WinForm\\TP-Winfrom-A\\AltaArticulo.cs",
+              "RelativeToolTip": "TP-Winfrom-A\\AltaArticulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T00:20:26.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Imagen.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Proyectos C#\\Consigna TPWinForn\\TP-WinForm\\dominio\\Imagen.cs",
+              "RelativeDocumentMoniker": "dominio\\Imagen.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Proyectos C#\\Consigna TPWinForn\\TP-WinForm\\dominio\\Imagen.cs",
+              "RelativeToolTip": "dominio\\Imagen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T20:14:45.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Proyectos C#\\Consigna TPWinForn\\TP-WinForm\\dominio\\Categoria.cs",
+              "RelativeDocumentMoniker": "dominio\\Categoria.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Proyectos C#\\Consigna TPWinForn\\TP-WinForm\\dominio\\Categoria.cs",
+              "RelativeToolTip": "dominio\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T20:14:25.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Proyectos C#\\Consigna TPWinForn\\TP-WinForm\\dominio\\Articulo.cs",
+              "RelativeDocumentMoniker": "dominio\\Articulo.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Proyectos C#\\Consigna TPWinForn\\TP-WinForm\\dominio\\Articulo.cs",
+              "RelativeToolTip": "dominio\\Articulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T20:14:07.575Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
